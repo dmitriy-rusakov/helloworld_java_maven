@@ -1,2 +1,0 @@
-#!/bin/sh
-curl http://127.0.0.1/git/notifyCommit?url=https://github.com/dmitriy-rusakov/helloworld_java.git
